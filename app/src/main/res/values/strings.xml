@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculate Area</string>
+    <string name="Alan_Hesapla">Calculate Area (Alan Hesapla)</string>
+    <string name="Dikdortgen_alan">Rectangle Area (Dikdortgen Alani)</string>
+    <string name="Cember_alani">Circle Area (Cember Alani)</string>
+    <string name="Kisa_kenar">Enter Short Side (Kisa Kenar Giriniz)</string>
+    <string name="Uzun_kenar">Enter Long Side (Uzun Kenar Giriniz)</string>
+    <string name="Cember_Alani">Enter the Radius (Yaricab Giriniz)</string>
+    <string name="value">Enter Value</string>
+    <string name="Sonuc">Result(Sonuc)</string>
+</resources>
